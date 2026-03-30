@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Keep dataset tracked for plug-and-play.
+# Ignore generated outputs and checkpoints.
+outputs_*/
+plots/
+models/
+*.pt
+*.pth
+*.ckpt
+*.log
