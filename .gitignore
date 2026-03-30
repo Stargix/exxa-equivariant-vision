@@ -20,7 +20,6 @@ Thumbs.db
 # Keep dataset tracked for plug-and-play.
 # Ignore generated outputs and checkpoints.
 
-*.pt
 *.pth
 *.ckpt
 *.log
